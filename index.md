@@ -6,7 +6,8 @@ You can visit my [Home on GitHub](https://github.com/wutianze) to find most of m
 
 Now I'm working for my phd degree in UCAS, and you can find me in Institute of Computing Technology Chinese Academy of Sciences.
 
-#```markdown
+<!--
+```markdown
 Syntax highlighted code block
 
 # Header 1
@@ -22,7 +23,8 @@ Syntax highlighted code block
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
-#```
+```
+-->
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
