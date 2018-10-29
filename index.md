@@ -4,7 +4,7 @@ You can visit my [Home on GitHub](https://github.com/wutianze) to find most of m
 
 ### Personal Infomation
 
-<img src="data:image/jpg;base64,/9j/4QMZR..." />
+<img src="https://github.com/wutianze/sauron/blob/master/IMG_20171006_175609.jpg" />
 Now I'm working for my phd degree in UCAS, and you can find me in Institute of Computing Technology Chinese Academy of Sciences.
 2014 - 2018 Bachelor degree in ShanghaiJiaoTong University(SJTU)
 
