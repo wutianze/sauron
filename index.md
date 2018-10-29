@@ -5,6 +5,7 @@ You can visit my [Home on GitHub](https://github.com/wutianze) to find most of m
 ### Personal Infomation
 
 Now I'm working for my phd degree in UCAS, and you can find me in Institute of Computing Technology Chinese Academy of Sciences.
+2014 - 2018 Bachelor degree in ShanghaiJiaoTong University(SJTU)
 
 <!--
 ```markdown
