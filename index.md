@@ -4,8 +4,7 @@ You can visit my [Home on GitHub](https://github.com/wutianze) to find most of m
 
 ### Personal Infomation
 ![myself](./IMG_20171006_175609.jpg)
-Now I'm working for my phd degree in UCAS, and you can find me in Institute of Computing Technology Chinese Academy of Sciences.  
-2014 - 2018 Bachelor degree in ShanghaiJiaoTong University(SJTU)
+**Tianze Wu** received his B.S. degree in software engineering from Shanghai JiaoTong University(SJTU), Shanghai, in 2018. He is a doctoral student in University of Chinese Academy of Sciences, and study in Institute of Computing Technology, Chinese Academy of Sciences, Beijing. His current research interests include operating system, autonomous driving system, and edge computing. He is a member of CCF.
 
 <!--
 ```markdown
@@ -29,10 +28,10 @@ Syntax highlighted code block
 
 ### Research Area
 
-Scheduling in Data Center  
+Autonomous Driving
 Cloud Computing  
 Edge Computing
 
 ### Paper
 
-None! ; _ :
+Wu, Tianze, Weiyi Liu, and Yongwei Jin. An End-to-End solution to Autonomous Driving based on Xilinx FPGA. No. 1680. EasyChair, 2019.
